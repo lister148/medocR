@@ -25,10 +25,3 @@ while True:
         heure_executed = False  # Réinitialiser pour la prochaine journée
     
     time.sleep(5)  # Attente 5 secondes pour éviter une utilisation excessive du processeur
-
-
-# Boucle pour exécuter le code toutes les 20 secondes
-
-#while True:
-#    my_code()
-#    time.sleep(20)  # Attente de 20 secondes avant la prochaine exécution
